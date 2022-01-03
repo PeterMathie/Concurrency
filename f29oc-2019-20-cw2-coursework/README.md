@@ -1,4 +1,4 @@
-# F29OC-2020-21-CW2-Coursework: Specification
+#Specification
 
 
 ### Introduction
